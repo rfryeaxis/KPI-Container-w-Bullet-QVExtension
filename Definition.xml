@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<ExtensionObject Label="KPI Container w Bullet"> 
+	<Dimension Label="Metric Name" Initial="Metric Name" />
+	
+	<Measurement Label="Responsible Party Image" Initial=""/>
+	<Measurement Label="Responsible Party" Initial=""/>
+	<Measurement Label="Overall Score" Initial=""/>
+	<Measurement Label="Trend Change" Initial=""/>
+	<Measurement Label="Trend" Initial=""/>
+	<Measurement Label="Actual" Initial=""/>
+	<Measurement Label="Bullet Config" Initial=""/>
+	<Measurement Label="Metric Class" Initial=""/>
+	<Measurement Label="Synthesis" Initial=""/>
+    <Initiate Name="Caption.Text" value="KPI Container w Bullet" /> 
+</ExtensionObject>
